@@ -1,16 +1,21 @@
 ﻿# 📘 Sistema de Consultas Médicas em Java (Swing + MongoDB)
  
 Disciplina: Banco de Dados
+
 Professor: Howard Roatti
+
 Instituição: FAESA
+
 Última atualização: 26/11/2025
+
 Vídeo de apresentação: https://youtu.be/_czu8RoQdUs
 
 Integrantes: Estevão Matos de Souza, Gabriel Araujo Ceruti Castro, Gabriel Araujo Valoni,
 Heitor Lopes Trindade Fadlalah, Renan Fortunato Silveira, Thiago Rosetti Miranda
-# Turma: 4HC1A
 
-Este projeto apresenta um **sistema completo de Consultas Médicas**, desenvolvido em **Java**, utilizando:
+Turma: 4HC1A
+
+# Este projeto apresenta um **sistema completo de Consultas Médicas**, desenvolvido em **Java**, utilizando:
 
 - Interface gráfica em **Swing**
 - Persistência de dados em **MongoDB**
@@ -241,5 +246,6 @@ Caso deseje uma versão:
 - Pacote ZIP completo
 
 Basta solicitar!
+
 
 
